@@ -18,7 +18,7 @@ This is a simple card game called 99 implemented in ReactJS. You can find more i
 * ReactStates firing twice. This is part of ReactJS strict mode. It's bad practice to mutate objects. 
 * Updating states. You want to use callback functions and update using prevstate 
 
-#Things to add for future
+# Things to add for future
 * Better UI: Card animations using library
 * Player vs player using Socket.io
 * Smarter AI using min-max algorithim (currently, the AI is very naive, i decided to sort and have AI select the largest card)
